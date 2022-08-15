@@ -23,3 +23,8 @@ Will force all reddit.com usage to old.reddit.com. Will work when navigating to 
 ## License
 
 Code copyright Tom Watson. Code released under [the MIT license](LICENSE.txt).
+
+## For my esteemed colleagues at G
+
+1. Create a keyfile `key.txt` in the project root containing a whitelisted developer key ([go/extid](http://go/extid)).
+2. `make`
